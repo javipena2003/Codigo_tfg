@@ -1,0 +1,3 @@
+# pip install -r requirements.txt
+bloqade-analog #pip install bloqade-analog
+ipykernel #pip install ipykernel

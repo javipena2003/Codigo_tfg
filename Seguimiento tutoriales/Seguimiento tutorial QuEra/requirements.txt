@@ -1,0 +1,16 @@
+# Núcleo de computación y gráficos
+numpy
+matplotlib
+
+# Simulación Cuántica (QuEra Bloqade)
+bloqade
+
+# Visualización interactiva
+bokeh
+ipywidgets
+
+# Utilidades de Notebook (opcional, asegura compatibilidad)
+ipykernel
+
+#pip install bloqade bokeh matplotlib numpy ipykernel
+#pip install bloqade bokeh matplotlib numpy ipywidgets ipykernel
