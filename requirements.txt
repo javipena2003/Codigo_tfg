@@ -1,4 +1,8 @@
-numpy
+bloqade
 matplotlib
 bokeh
-bloqade
+numpy
+scipy
+ipython
+pulser
+pulser-simulation
